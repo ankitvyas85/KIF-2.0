@@ -1,0 +1,95 @@
+/* 
+  Localizable.strings
+  GoldenGate
+
+  Created by Andreas Petrov on 8/17/12.
+  Copyright (c) 2012 Knowit. All rights reserved.
+*/
+
+// NOTE: Please keep the keys alphabetized
+"AirPlayActiveLKey"     = "AirPlay is active";
+"AllOfCategoryLKey"     = "All %@";
+"AZLKey"                = "A-Z";
+"CategoriesLKey"        = "Categories";
+"CategoryHasNoChannelsLKey" = "This category has no channels yet";
+"CategoryHasNoShowsLKey" = "This category has no shows yet";
+"ChannelHasNoVideosLKey"= "This channel has no videos yet";
+"ChannelsLKey"          = "Channels";
+"ChannelsWithNewContentLKey" = "Recently Updated";
+"ChannelsMostSubscribedLKey" = "Most Subscribed Channels";
+"CloseLKey"             = "Close";
+"BackLKey"              = "Back";
+"ByLKey"                = "by";
+"BufferingLKey"         = "Buffering...";
+"DoneLKey"              = "Done";
+"EmailLKey"             = "E-mail";
+"EditLKey"              = "Edit";
+"EditorsPickLKey"       = "Editor's Pick";
+"EndOfPlaylistLKey"     = "End of current playlist";
+"ErrorLoadingContentLKey" = "Error loading content";
+"ErrorLoadingVideoLKey" = "Error loading video";
+"ErrorLoadingNavigationLKey" = "Error loading navigation";
+"FeaturedLKey"          = "Featured";
+"FavoritesLKey"         = "Favorites";
+"FavoriteVideosLKey"    = "Favorite Videos";
+"FeaturedChannelsLKey"  = "Featured Channels";
+"FromPublisherLKey"     = "Channels by %@";
+"FromCategoryLKey"      = "Channels in %@";
+"LoadingContentLKey"    = "Loading content...";
+"LogOutLKey"            = "Log Out";
+"NoLKey"                = "No";
+"NoteworthyLKey"        = "Noteworthy";
+"NoSearchResultsLKey"   = "No matches found";
+"NoSearchMatchFoundChannelsLKey"    = "No matching channels found";
+"NoSearchMatchFoundVideosLKey"      = "No matching videos found";
+"NoNewVideoFoundLKey"               = "No new videos";
+"NoNewChannelsFoundLKey"            = "No recently updated channels";
+"NoFeaturedChannelsLKey" = "No featured channels yet";
+"NoEditorsPickLKey"     = "No editor's pick yet";
+"NewChannelsLKey"       = "New Channels";
+"NewVideosLKey"         = "New Videos";
+"NewVideosForSubscribtionsLKey"  = "New videos in My Channels";
+"NewInLKey"             = "New in";
+"NewLKey"               = "New";
+"MyChannelsLKey"        = "My Channels";
+"MiscellaneousLKey"        = "Miscellaneous";
+"PlaylistLKey"          = "Playlist";
+"PageIndicatorLKey"     = "Page %d of %d";
+"PasswordLKey"          = "PASSWORD";
+"PopularLKey"           = "Popular";
+"PreviewLKey"           = "Preview";
+"RelatedContentLKey"    = "Related content";
+"RelatedBySamePublisherLKey"    = "By same publisher";
+"RelatedBySameCategoryLKey"     = "In same category";
+"RememberMeLKey"        = "Remember me";
+"RetryLKey"             = "Try again";
+"ResumePlayBackLKey"    = "Resume playback?";
+"ResumeFromBeginningLKey"= "Start from the beginning";
+"ResumeFromCurrentProgressLKey"= "Resume from last position";
+"RowsLKey"              = "Rows";
+"ShowAllResultsLKey"    = "Show all results";
+"SearchChannelsLKey"    = "Search channels";
+"SearchErrorLKey"       = "Search failed";
+"SearchResultsLKey"     = "Search results";
+"SearchingLKey"         = "Searching...";
+"ShowsLKey"             = "Shows";
+"SubscriptionsLKey"        = "Subscriptions";
+"TrackingPermissionLKey" = "Would you like to send anonymous usage statistics to help improve this service?";
+"TrackingPermissionTitleLKey" = "Usage tracking";
+"UnknownPublisherLKey"  = "Unknown publisher";
+"UserIDLKey"            = "USER ID";
+"UserHasNoChannelsLKey" = "You are currently not subscribing to any channels";
+"UserHasNoShowsLKey"    = "You are currently not subscribing to any shows";
+"VideosLKey"            = "Videos";
+"VideosMostWatchedLKey" = "Most Watched Videos";
+"NumberOfVideosLKey"    = "%d videos";
+"WatchLKey"             = "Watch";
+"WatchNextLKey"         = "Watching Next";
+"YesLKey"               = "Yes";
+
+// TEMP KEYS
+"Xfinity TV+"           = "Golden Gate";
+
+
+
+
